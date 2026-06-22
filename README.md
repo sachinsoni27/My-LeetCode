@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/sachinsoni27/My-LeetCode/tree/master/0053-maximum-subarray) |
 | [0217-contains-duplicate](https://github.com/sachinsoni27/My-LeetCode/tree/master/0217-contains-duplicate) |
+| [1800-maximum-ascending-subarray-sum](https://github.com/sachinsoni27/My-LeetCode/tree/master/1800-maximum-ascending-subarray-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
