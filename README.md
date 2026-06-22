@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/sachinsoni27/My-LeetCode/tree/master/0053-maximum-subarray) |
 | [0217-contains-duplicate](https://github.com/sachinsoni27/My-LeetCode/tree/master/0217-contains-duplicate) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/sachinsoni27/My-LeetCode/tree/master/1800-maximum-ascending-subarray-sum) |
+| [1991-find-the-middle-index-in-array](https://github.com/sachinsoni27/My-LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -35,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/sachinsoni27/My-LeetCode/tree/master/0344-reverse-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [1991-find-the-middle-index-in-array](https://github.com/sachinsoni27/My-LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 <!---LeetCode Topics End-->
