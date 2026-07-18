@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/sachinsoni27/My-LeetCode/tree/master/0009-palindrome-number) |
 | [0509-fibonacci-number](https://github.com/sachinsoni27/My-LeetCode/tree/master/0509-fibonacci-number) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/sachinsoni27/My-LeetCode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/sachinsoni27/My-LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Recursion
 |  |
 | ------- |
