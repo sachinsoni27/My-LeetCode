@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/sachinsoni27/My-LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sachinsoni27/My-LeetCode/tree/master/0009-palindrome-number) |
 | [0509-fibonacci-number](https://github.com/sachinsoni27/My-LeetCode/tree/master/0509-fibonacci-number) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/sachinsoni27/My-LeetCode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 ## Recursion
 |  |
 | ------- |
@@ -79,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/sachinsoni27/My-LeetCode/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/sachinsoni27/My-LeetCode/tree/master/0704-binary-search) |
+## Geometry
+|  |
+| ------- |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/sachinsoni27/My-LeetCode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 <!---LeetCode Topics End-->
