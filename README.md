@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/sachinsoni27/My-LeetCode/tree/master/0053-maximum-subarray) |
 | [0189-rotate-array](https://github.com/sachinsoni27/My-LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/sachinsoni27/My-LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/sachinsoni27/My-LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sachinsoni27/My-LeetCode/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/sachinsoni27/My-LeetCode/tree/master/0704-binary-search) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/sachinsoni27/My-LeetCode/tree/master/1800-maximum-ascending-subarray-sum) |
@@ -27,10 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sachinsoni27/My-LeetCode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/sachinsoni27/My-LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/sachinsoni27/My-LeetCode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/sachinsoni27/My-LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/sachinsoni27/My-LeetCode/tree/master/0268-missing-number) |
 ## Database
 |  |
 | ------- |
@@ -62,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/sachinsoni27/My-LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sachinsoni27/My-LeetCode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/sachinsoni27/My-LeetCode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/sachinsoni27/My-LeetCode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/sachinsoni27/My-LeetCode/tree/master/0509-fibonacci-number) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/sachinsoni27/My-LeetCode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/sachinsoni27/My-LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -83,9 +87,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/sachinsoni27/My-LeetCode/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/sachinsoni27/My-LeetCode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/sachinsoni27/My-LeetCode/tree/master/0704-binary-search) |
 ## Geometry
 |  |
 | ------- |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/sachinsoni27/My-LeetCode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/sachinsoni27/My-LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
