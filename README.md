@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/sachinsoni27/My-LeetCode/tree/master/0704-binary-search) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/sachinsoni27/My-LeetCode/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1991-find-the-middle-index-in-array](https://github.com/sachinsoni27/My-LeetCode/tree/master/1991-find-the-middle-index-in-array) |
+| [3731-find-missing-elements](https://github.com/sachinsoni27/My-LeetCode/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -29,11 +30,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sachinsoni27/My-LeetCode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/sachinsoni27/My-LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sachinsoni27/My-LeetCode/tree/master/0268-missing-number) |
+| [3731-find-missing-elements](https://github.com/sachinsoni27/My-LeetCode/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/sachinsoni27/My-LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sachinsoni27/My-LeetCode/tree/master/0268-missing-number) |
+| [3731-find-missing-elements](https://github.com/sachinsoni27/My-LeetCode/tree/master/3731-find-missing-elements) |
 ## Database
 |  |
 | ------- |
