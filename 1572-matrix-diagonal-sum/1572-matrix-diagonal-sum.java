@@ -1,19 +1,19 @@
 class Solution {
     public int diagonalSum(int[][] mat) {
+        int n = mat.length;
  
-        int totalsum = 0;
-        int nonDiagonal = 0;
+        int sum = 0;
+        
      for ( int i =0 ; i <mat.length; i++){
-       
-        for( int j=0 ; j < mat[0].length ;  j++){
-                      totalsum += mat[i][j];
-                      if(!(i==j) && !(i + j == mat.length - 1) ){
-                          nonDiagonal += mat[i][j];
-                      }  
-        }
-          
-     }
-        return totalsum - nonDiagonal; 
-    }
+                      sum += mat[i][i];
+                      sum += mat[i][n - 1 - i];
+                       }
+                      if( n%2==1){
+                        sum -=mat[n/2][n/2];
+                      }
 
+    
+              return sum;      
+
+}
 }
