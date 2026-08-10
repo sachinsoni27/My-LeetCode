@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sachinsoni27/My-LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sachinsoni27/My-LeetCode/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/sachinsoni27/My-LeetCode/tree/master/0704-binary-search) |
+| [0867-transpose-matrix](https://github.com/sachinsoni27/My-LeetCode/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/sachinsoni27/My-LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sachinsoni27/My-LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/sachinsoni27/My-LeetCode/tree/master/1800-maximum-ascending-subarray-sum) |
@@ -112,5 +113,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/sachinsoni27/My-LeetCode/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/sachinsoni27/My-LeetCode/tree/master/1572-matrix-diagonal-sum) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/sachinsoni27/My-LeetCode/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
