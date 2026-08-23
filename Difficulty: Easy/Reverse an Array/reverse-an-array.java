@@ -1,19 +1,16 @@
 class Solution {
     public void reverseArray(int arr[]) {
-        int n = arr.length;
-        // code here
-        int left =0;
-        int right= n-1;
-        
-        while( left <right){
-            int temp = arr[left];
-             arr[left] = arr[right];
-             arr[right]= temp;
-            left++;
-             right--;
+        // code
+        int i = 0;
+        int j = arr.length-1;
+        while( j>i ){
+            int temp = arr[i];
+            arr[i]= arr[j];
+            arr[j]= temp;
+            i++;
+            j--;
         }
-        /*for( int k =0; k<n; k++){
-            System.out.print(arr[k]+" ");
-        }*/
+       
+      
     }
 }
