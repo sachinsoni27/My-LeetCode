@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/sachinsoni27/My-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/sachinsoni27/My-LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/sachinsoni27/My-LeetCode/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/sachinsoni27/My-LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/sachinsoni27/My-LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sachinsoni27/My-LeetCode/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/sachinsoni27/My-LeetCode/tree/master/0704-binary-search) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/sachinsoni27/My-LeetCode/tree/master/0238-product-of-array-except-self) |
 | [1991-find-the-middle-index-in-array](https://github.com/sachinsoni27/My-LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 ## Linked List
 |  |
