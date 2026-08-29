@@ -7,7 +7,6 @@ class Solution {
 
         for (int num : nums) {
 
-            // Ignore duplicates
             if (num == max1 || num == max2 || num == max3) {
                 continue;
             }
@@ -26,7 +25,6 @@ class Solution {
             }
         }
 
-        // No third distinct maximum
         if (max3 == Long.MIN_VALUE) {
             return (int) max1;
         }
