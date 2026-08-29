@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/sachinsoni27/My-LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/sachinsoni27/My-LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sachinsoni27/My-LeetCode/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/sachinsoni27/My-LeetCode/tree/master/0414-third-maximum-number) |
 | [0704-binary-search](https://github.com/sachinsoni27/My-LeetCode/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/sachinsoni27/My-LeetCode/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/sachinsoni27/My-LeetCode/tree/master/1572-matrix-diagonal-sum) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/sachinsoni27/My-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/sachinsoni27/My-LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sachinsoni27/My-LeetCode/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/sachinsoni27/My-LeetCode/tree/master/0414-third-maximum-number) |
 | [3731-find-missing-elements](https://github.com/sachinsoni27/My-LeetCode/tree/master/3731-find-missing-elements) |
 ## Database
 |  |
