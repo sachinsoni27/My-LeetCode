@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/sachinsoni27/My-LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/sachinsoni27/My-LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/sachinsoni27/My-LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/sachinsoni27/My-LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/sachinsoni27/My-LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sachinsoni27/My-LeetCode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/sachinsoni27/My-LeetCode/tree/master/0414-third-maximum-number) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sachinsoni27/My-LeetCode/tree/master/0053-maximum-subarray) |
+| [0240-search-a-2d-matrix-ii](https://github.com/sachinsoni27/My-LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/sachinsoni27/My-LeetCode/tree/master/0035-search-insert-position) |
+| [0240-search-a-2d-matrix-ii](https://github.com/sachinsoni27/My-LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/sachinsoni27/My-LeetCode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/sachinsoni27/My-LeetCode/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/sachinsoni27/My-LeetCode/tree/master/0704-binary-search) |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/sachinsoni27/My-LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/sachinsoni27/My-LeetCode/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/sachinsoni27/My-LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/sachinsoni27/My-LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
