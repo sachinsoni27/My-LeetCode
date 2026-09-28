@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/sachinsoni27/My-LeetCode/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/sachinsoni27/My-LeetCode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/sachinsoni27/My-LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/sachinsoni27/My-LeetCode/tree/master/0344-reverse-string) |
