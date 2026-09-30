@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/sachinsoni27/My-LeetCode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/sachinsoni27/My-LeetCode/tree/master/0414-third-maximum-number) |
 | [0704-binary-search](https://github.com/sachinsoni27/My-LeetCode/tree/master/0704-binary-search) |
+| [0735-asteroid-collision](https://github.com/sachinsoni27/My-LeetCode/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/sachinsoni27/My-LeetCode/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/sachinsoni27/My-LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sachinsoni27/My-LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sachinsoni27/My-LeetCode/tree/master/0020-valid-parentheses) |
+| [0735-asteroid-collision](https://github.com/sachinsoni27/My-LeetCode/tree/master/0735-asteroid-collision) |
 ## Binary Search
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/sachinsoni27/My-LeetCode/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/sachinsoni27/My-LeetCode/tree/master/0867-transpose-matrix) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/sachinsoni27/My-LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Interactive
